@@ -1,2 +1,2 @@
 # biblioteca
-Sistema de inventario para bibliotecas, Backend desarollado con Laravel y Frontend con ReactJS
+Sistema de inventario para bibliotecas, Backend desarrollado con Laravel y Frontend con ReactJS
