@@ -10,5 +10,5 @@ class Autor extends Model
     use HasFactory;
 
     protected $table = 'autores';
-    protected $fillable = ['nombre_autor', 'nacionalidad'];
+    protected $fillable = ['codigo_autor', 'nombre_autor', 'nacionalidad'];
 }
